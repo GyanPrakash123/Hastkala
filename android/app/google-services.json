@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555114746533",
+    "project_id": "emailpasswordauth-ad78e",
+    "storage_bucket": "emailpasswordauth-ad78e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555114746533:android:8fb6e42e96b96d139d334c",
+        "android_client_info": {
+          "package_name": "com.example.hastkala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555114746533-ofkhjg73euo0g8tqu9u2p0tf532ajtjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfztMu7-bSK-G8FTu6hl2WfZ_H7uXZSJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555114746533-ofkhjg73euo0g8tqu9u2p0tf532ajtjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

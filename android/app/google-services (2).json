@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811623253266",
+    "project_id": "emailpassauth-b80cd",
+    "storage_bucket": "emailpassauth-b80cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811623253266:android:8eb5b814dfd3f59ed69fcb",
+        "android_client_info": {
+          "package_name": "com.example.hastkala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811623253266-68u7eqvmcog7v2s005egeo8plqsn1udl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdunw_664Ftk4w6wUuIpEuDmAOw_zN_DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811623253266-68u7eqvmcog7v2s005egeo8plqsn1udl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
